@@ -10,7 +10,7 @@
 
 Acesso root: <u>sudo su<u/>
 
-Iniciando o setoolkit: <u>setoolkit<u/>
+Iniciando o setoolkit: setoolkit
 
 Tipo de ataque: Social-Engineering Attacks
 
@@ -20,7 +20,7 @@ Método de ataque: Credential Harvester Attack Method
 
 Método de ataque: Web Templates 
 
-Obtendo o endereço da máquina: <u>ifconfig<u/>
+Obtendo o endereço da máquina: ifconfig
 
 URL para clone: http://www.twitter.com
 
