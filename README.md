@@ -8,19 +8,19 @@
 
 **Configurando o Phishing no Kali Linux**
 
-Acesso root: <u>sudo su<u/>
+1. Acesso root: sudo su
 
-Iniciando o setoolkit: setoolkit
+2. Iniciando o setoolkit: setoolkit
 
-Tipo de ataque: Social-Engineering Attacks
+3. Tipo de ataque: Social-Engineering Attacks
 
-Vetor de ataque: Web Site Attack Vectors
+4. Vetor de ataque: Web Site Attack Vectors
 
-Método de ataque: Credential Harvester Attack Method 
+5. Método de ataque: Credential Harvester Attack Method 
 
-Método de ataque: Web Templates 
+6. Método de ataque: Web Templates 
 
-Obtendo o endereço da máquina: ifconfig
+7. Obtendo o endereço da máquina: ifconfig
 
 URL para clone: http://www.twitter.com
 
